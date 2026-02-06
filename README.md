@@ -36,7 +36,14 @@ Software / Senior QA Engineer focused on test automation, reliability, and pract
       width="120"
     />
   </a>
+
+  <img
+    src="https://img.shields.io/badge/AWS%20Developer%20Associate-Coming%20Soon-6f42c1?style=for-the-badge"
+    alt="AWS Developer Associate - Coming Soon"
+    height="36"
+  />
 </p>
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=acLebert&style=flat-square)
