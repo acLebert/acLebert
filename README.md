@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <img width="1536" height="1024" alt="57e42309-bac7-4565-9335-1efc7a906362" src="https://github.com/user-attachments/assets/bc025272-4b39-49f9-8dfd-76d218092af4" />
+</p>
 
-<!--
-**acLebert/acLebert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Andrew Lebert
 
-Here are some ideas to get you started:
+Software / Senior QA Engineer focused on test automation, reliability, and practical quality improvements across modern web, mobile and service stacks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+- **QA Automation & E2E:** Cypress (TypeScript), custom commands, API + UI testing, session/state handling, smoke test tagging, flake reduction, Selenium → Cypress migrations (with and without Cucumber/Gherkin)
+- **Frontend:** Angular (including 15→16 upgrade work), testability improvements, component-driven UI automation
+- **Backend / Services:** .NET APIs (service DI patterns, endpoint validation), request/response troubleshooting (415s, headers, auth/session flows)
+- **CI/CD & Build:** Jenkins pipelines, GitHub Actions, Node/Ruby tooling fixes (Bundler + PATH issues), pipeline reliability and faster feedback loops
+- **Observability:** New Relic dashboards/NRQL (test health + flakiness), logs/APM-driven debugging, alert-friendly metrics
+- **Cloud & Infra:** AWS (Lambda, SSM Parameter Store, CloudWatch, SQS, RDS), environment config + secret propagation troubleshooting
+- **Data & Validation:** SQL-heavy verification for messaging/billing usage, targeted queries for test data selection and evidence-based QA
+- **Integrations:** Twilio, Salesforce, Billing Platform flows, third-party popups/embeds (e.g., Intercom), payment/processor edge cases
+- **Performance / Load:** Grafana k6 (OSS) exploration for load testing + baseline performance validation
+- **Tooling:** JetBrains Rider, Windows CMD, Docker, multi-service local debugging
+
+
+## Links
+- GitHub: https://github.com/acLebert
+- LinkedIn: https://www.linkedin.com/in/andrew-lebert/
+- Website: https://andrewlebert.netlify.app/
+- Email: drewlebert@gmail.com
