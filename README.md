@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="1536" height="1024" alt="57e42309-bac7-4565-9335-1efc7a906362" src="https://github.com/user-attachments/assets/bc025272-4b39-49f9-8dfd-76d218092af4" />
+  <img src="https://github.com/user-attachments/assets/bc025272-4b39-49f9-8dfd-76d218092af4" alt="Banner" width="900" />
 </p>
+
 
 # Andrew Lebert
 
