@@ -27,5 +27,12 @@ Software / Senior QA Engineer focused on test automation, reliability, and pract
 - Website: Under Construction (soon)
 - Email: drewlebert@gmail.com
 
+## Certifications
+<p>
+  <a href="https://www.credly.com/badges/11a9109f-3625-4699-8a99-170af5d2dd9c">
+    <img src="./cloudprac.png" alt="AWS Certified Cloud Practitioner" width="120" />
+  </a>
+</p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=acLebert&style=flat-square)
