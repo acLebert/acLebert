@@ -25,7 +25,7 @@ Software / Senior QA Engineer focused on test automation, reliability, and pract
 ## Links
 - GitHub: https://github.com/acLebert
 - LinkedIn: https://www.linkedin.com/in/andrew-lebert/
-- Website: https://andrewlebert.netlify.app/
+- Website: Under Construction (soon)
 - Email: drewlebert@gmail.com
 
 
