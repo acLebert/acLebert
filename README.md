@@ -27,3 +27,6 @@ Software / Senior QA Engineer focused on test automation, reliability, and pract
 - LinkedIn: https://www.linkedin.com/in/andrew-lebert/
 - Website: https://andrewlebert.netlify.app/
 - Email: drewlebert@gmail.com
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=acLebert&style=flat-square)
