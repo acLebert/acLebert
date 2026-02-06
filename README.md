@@ -39,7 +39,7 @@ Software / Senior QA Engineer focused on test automation, reliability, and pract
 
   <img
     src="https://img.shields.io/badge/AWS%20Developer%20Associate-Coming%20Soon-6f42c1?style=for-the-badge"
-    alt="AWS Developer Associate - Coming Soon"
+    alt="AWS Developer Associate - Coming Soon 2026"
     height="36"
   />
 </p>
