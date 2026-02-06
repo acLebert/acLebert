@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1080" height="404" alt="banner" src="https://github.com/user-attachments/assets/aa420b05-36a6-4f38-b265-084678a37729" />
+ 
 </p>
 
 # Andrew Lebert
