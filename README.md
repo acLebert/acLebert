@@ -1,15 +1,14 @@
 <p align="center">
-
   <img width="1080" height="404" alt="banner" src="https://github.com/user-attachments/assets/aa420b05-36a6-4f38-b265-084678a37729" />
-
 </p>
-
 
 # Andrew Lebert
 
 Software / Senior QA Engineer focused on test automation, reliability, and practical quality improvements across modern web, mobile and service stacks.
 
-## What I work with
+<details>
+  <summary><b>What I work with</b> (click to expand)</summary>
+
 - **QA Automation & E2E:** Cypress (TypeScript), custom commands, API + UI testing, session/state handling, smoke test tagging, flake reduction, Selenium → Cypress migrations (with and without Cucumber/Gherkin)
 - **Frontend:** Angular (including 15→16 upgrade work), testability improvements, component-driven UI automation
 - **Backend / Services:** .NET APIs (service DI patterns, endpoint validation), request/response troubleshooting (415s, headers, auth/session flows)
@@ -21,6 +20,7 @@ Software / Senior QA Engineer focused on test automation, reliability, and pract
 - **Performance / Load:** Grafana k6 (OSS) exploration for load testing + baseline performance validation
 - **Tooling:** JetBrains Rider, Windows CMD, Docker, multi-service local debugging
 
+</details>
 
 ## Links
 - GitHub: https://github.com/acLebert
