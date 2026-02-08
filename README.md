@@ -44,8 +44,6 @@ Software / Senior QA Engineer focused on test automation, reliability, and pract
   />
 </p>
 
-## 📊 GitHub Stats
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=acLebert&theme=vue-dark&layout=compact&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=acLebert&theme=vue&layout=compact&hide_border=true">
