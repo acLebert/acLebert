@@ -64,6 +64,15 @@ Software / Senior QA Engineer focused on test automation, reliability, and pract
         </picture>
       </td>
     </tr>
+    <tr>
+      <td colspan="2">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=acLebert&theme=vue-dark&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=acLebert&theme=vue&hide_border=true">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=acLebert&theme=vue&hide_border=true">
+        </picture>
+      </td>
+    </tr>
   </tbody>
 </table>
 
