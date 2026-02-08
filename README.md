@@ -46,35 +46,11 @@ Software / Senior QA Engineer focused on test automation, reliability, and pract
 
 ## 📊 GitHub Stats
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=acLebert&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=acLebert&theme=vue&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=acLebert&theme=vue&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
-        </picture>
-      </td>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=acLebert&theme=vue-dark&layout=compact&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=acLebert&theme=vue&layout=compact&hide_border=true">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=acLebert&theme=vue&layout=compact&hide_border=true">
-        </picture>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=acLebert&theme=vue-dark&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=acLebert&theme=vue&hide_border=true">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=acLebert&theme=vue&hide_border=true">
-        </picture>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=acLebert&theme=vue-dark&layout=compact&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=acLebert&theme=vue&layout=compact&hide_border=true">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=acLebert&theme=vue&layout=compact&hide_border=true">
+</picture>
 
 ## 🐍 Contribution Snake
 
