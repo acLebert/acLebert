@@ -51,9 +51,9 @@ Software / Senior QA Engineer focused on test automation, reliability, and pract
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=acLebert&theme=vue-dark&show_icons=true&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=acLebert&theme=vue&show_icons=true&hide_border=true">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=acLebert&theme=vue&show_icons=true&hide_border=true">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=acLebert&theme=vue-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=acLebert&theme=vue&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=acLebert&theme=vue&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
         </picture>
       </td>
       <td>
