@@ -9,11 +9,12 @@ Software / Senior QA Engineer focused on test automation, reliability, and pract
 <details>
   <summary><b>What I work with</b> (click to expand)</summary>
 
-- **QA Automation & E2E:** Cypress (TypeScript), custom commands, API + UI testing, session/state handling, smoke test tagging, flake reduction, Selenium → Cypress migrations (with and without Cucumber/Gherkin)
+- **QA Automation & E2E:** Cypress (TypeScript), custom commands, API + UI testing, session/state handling, smoke test tagging, flake reduction, Selenium to Cypress migrations (with and without Cucumber/Gherkin)
+- **AI-Assisted Engineering:** Practical use of Claude, GPT, and coding agents to accelerate repo analysis, debugging, implementation support, and engineering decision-making across complex systems
 - **Frontend:** Angular (including 15→16 upgrade work), testability improvements, component-driven UI automation
 - **Backend / Services:** .NET APIs (service DI patterns, endpoint validation), request/response troubleshooting (415s, headers, auth/session flows)
 - **CI/CD & Build:** Jenkins pipelines, GitHub Actions, Node/Ruby tooling fixes (Bundler + PATH issues), pipeline reliability and faster feedback loops
-- **Observability:** New Relic dashboards/NRQL (test health + flakiness), logs/APM-driven debugging, alert-friendly metrics
+- **Observability:** Built New Relic dashboards and crafted NRQL-driven views for test health, flakiness, and outage investigation, using logs/APM signals and AI-assisted query iteration to narrow scope and surface probable root causes faster
 - **Cloud & Infra:** AWS (Lambda, SSM Parameter Store, CloudWatch, SQS, RDS), environment config + secret propagation troubleshooting
 - **Data & Validation:** SQL-heavy verification for messaging/billing usage, targeted queries for test data selection and evidence-based QA
 - **Integrations:** Twilio, Salesforce, Billing Platform flows, third-party popups/embeds (e.g., Intercom), payment/processor edge cases
