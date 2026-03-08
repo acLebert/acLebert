@@ -14,12 +14,12 @@ Software / Senior QA Engineer focused on test automation, reliability, and pract
 - **Frontend:** Angular (including 15→16 upgrade work), testability improvements, component-driven UI automation
 - **Backend / Services:** .NET APIs (service DI patterns, endpoint validation), request/response troubleshooting (415s, headers, auth/session flows)
 - **CI/CD & Build:** Jenkins pipelines, GitHub Actions, Node/Ruby tooling fixes (Bundler + PATH issues), pipeline reliability and faster feedback loops
-- **Observability:** Built New Relic dashboards and crafted NRQL-driven views for test health, flakiness, and outage investigation, using logs/APM signals and AI-assisted query iteration to narrow scope and surface probable root causes faster
+- **Observability:** Built New Relic dashboards and NRQL-powered views for test health, flakiness, and outage triage, combining logs/APM signals with AI-assisted query iteration to surface probable root causes faster
 - **Cloud & Infra:** AWS (Lambda, SSM Parameter Store, CloudWatch, SQS, RDS), environment config + secret propagation troubleshooting
 - **Data & Validation:** SQL-heavy verification for messaging/billing usage, targeted queries for test data selection and evidence-based QA
 - **Integrations:** Twilio, Salesforce, Billing Platform flows, third-party popups/embeds (e.g., Intercom), payment/processor edge cases
 - **Performance / Load:** Grafana k6 (OSS) exploration for load testing + baseline performance validation
-- **Tooling:** JetBrains Rider, Windows CMD, Docker, multi-service local debugging
+- **Tooling:** JetBrains Rider, VS Code, Windows CMD, Git/GitHub, Docker, Postman, multi-service local debugging, local API and service validation, environment configuration, and cross-service troubleshooting across complex dev stacks
 
 </details>
 
