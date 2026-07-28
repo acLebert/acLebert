@@ -25,7 +25,7 @@ Software / Senior QA Engineer focused on test automation, reliability, and pract
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/andrew-lebert/
-- Website: Under Construction (soon)
+- Website: If you have my resume - You have my portfolio site. 
 - Email: drewlebert@gmail.com
 
 ## Certifications
